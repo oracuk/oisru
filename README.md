@@ -1,6 +1,6 @@
 # Open Information Security Risk Universe
 
-![](cover.jpg)
+<img src="cover.jpg" width=400>
 
 The Open Information Security Risk Universe (oisru) is a framework for describing information security risks independently of models or methods of analysing risks.
 

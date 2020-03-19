@@ -1,11 +1,11 @@
 
-# Consequence Risk Factors
+# Severity Risk Factors
 
-Consequence risk factors are relevant to the estimation of therange and severity of consequences that a risk event may cause to occur to occur.
+Severity risk factors are relevant to the estimation of therange and severity of consequences that a risk event may cause to occur to occur.
 
-## External Consequence Risk Factors
+## External Severity Risk Factors
 
-External Frequency Risk Factors are risk factors that are outside of your scope of control that may affect the consequences of the risks you manage.
+External Severity Risk Factors are risk factors that are outside of your scope of control that may affect the consequences of the risks you manage.
 
 These are stated as questions to ask yourself or your organisation. The ability to estimate or measure these risk factors will vary between organisations.
 
@@ -22,9 +22,9 @@ These are stated as questions to ask yourself or your organisation. The ability 
 * Does our supplier have a robust BC/DR capability?
 * Does our supplier encrypt our data?
 
-## Internal Consequence Risk Factors
+## Internal Severity Risk Factors
 
-Internal Consequence Risk Factors are risk factors that are within your scope of control and that may affect the consequences of the risks you manage. These are factors that can be subject to an internal control.
+Internal Severity Risk Factors are risk factors that are within your scope of control and that may affect the consequences of the risks you manage. These are factors that can be subject to an internal control.
 
 * How long does it take us to detect financial crime?
 * How long does it take us to detect security incidents from the initial attack stage?

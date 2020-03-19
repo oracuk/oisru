@@ -22,3 +22,5 @@ A PDF of the current version of the oisru is available in the repository [here](
 ## Contributing to the OISRU
 The OISRU is an open source effort and we welcome contributions and feedback.
 To report and error or suggest an improvement, please create an [issue](https://github.com/oracuk/oisru/issues "Github issues") or create a Pull Request.
+
+Contributors will be added to an acknowledgements table based on their contributions logged by GitHub. The list of names is sorted by the number of lines added. 

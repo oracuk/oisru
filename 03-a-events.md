@@ -10,7 +10,7 @@ Indicative impacts on the information security goals of Confidentiality, Integri
 
 External Risk Events are events that may occur outside your scope of control but may still cause consequences for your organisation or it's stakeholders.
 
-|Level 1|Level2|CIA|
+|Level 1 Events|Level 2 Events|CIA|
 |-------|------|---|
 |Supplier|Service Unavailability|Availability|
 ||Service Compromise|Confidentiality, Integrity|
@@ -27,7 +27,7 @@ Internal Risk Events are events that may occur within your scope of control and 
 The Internal Risk Events are largely derived from this [ENISA](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy/at_download/fullReport) [PDF] review of CSIRT incident taxonomies across Europe.
 
 
-|Level 1|Level 2|CIA|
+|Level 1 Events|Level 2 Events|CIA|
 |-------|-------|---|
 |Abusive Content|Harmful Speech||
 ||Child / Sexual / Violent Content|

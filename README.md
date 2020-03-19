@@ -17,7 +17,7 @@ A PDF of the current version of the oisru is available in the repository [here](
 - [Sources of Risk](01-a-sources.md)
 - [Frequency Risk Factors](02-a-frequency-factors.md)
 - [Risk Events](03-a-events.md)
-- [Consequence Risk Factors](04-a-consequence-factors.md)
+- [Severity Risk Factors](04-a-consequence-factors.md)
 - [Risk Consequences](05-a-consequences.md)
 
 ## Contributing to the OISRU

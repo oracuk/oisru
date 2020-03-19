@@ -19,6 +19,7 @@ The Open Information Security Risk Universe comprises, at it's core, Sources of 
 The following people have contributed to this document:
 * Phil Huggins
 * Paul De Luca
+* Robin Oldham
 
  ## License
 

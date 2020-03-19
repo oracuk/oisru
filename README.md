@@ -13,6 +13,7 @@ A PDF of the current version of the oisru is available in the repository [here](
 ## Individual Sections of the OISRU
 
 - [Introduction](00-c-intro.md)
+- [Supporting Approaches](00-d-supporting.md)
 - [Sources of Risk](01-a-sources.md)
 - [Frequency Risk Factors](02-a-frequency-factors.md)
 - [Risk Events](03-a-events.md)

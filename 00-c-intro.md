@@ -8,6 +8,12 @@ The goal of the Open Information Security Risk Universe (OISRU) is to provide a 
 
 This framework should be complementary to the Basel II operational risk event types, recognising that information security risk permeates operational risk.
 
+## Overview of the Risk Universe
+
+The Open Information Security Risk Universe comprises, at it's core, Sources of Risk Events, Risk Events and Consequences of Risk Events. These are supplemented by Risk Factors that drive the Frequency or Severity of the Risks.
+
+![](osiru.png)
+
 ## Contributors
 
 The following people have contributed to this document:

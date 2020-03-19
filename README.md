@@ -18,3 +18,7 @@ A PDF of the current version of the oisru is available in the repository [here](
 - [Risk Events](03-a-events.md)
 - [Consequence Risk Factors](04-a-consequence-factors.md)
 - [Risk Consequences](05-a-consequences.md)
+
+## Contributing to the OISRU
+The OISRU is an open source effort and we welcome contributions and feedback.
+To report and error or suggest an improvement, please create an [issue](https://github.com/oracuk/oisru/issues "Github issues") or create a Pull Request.

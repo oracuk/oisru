@@ -11,3 +11,7 @@ This framework should be complementary to the Basel II operational risk event ty
 The following people have contributed to this document:
 * Phil Huggins
 * Paul De Luca
+
+ ## License
+
+The Open Information Security Risk Universe is licensed under the Creative Commons Zero v1.0 Universal license. Please the project Github repository [https://github.com/oracuk/oisru](https://github.com/oracuk/oisru) for details.

@@ -1,32 +1,34 @@
 
 # Sources of Risk
 
-These are the various actors that cause a risk event to occur. They have different motivations and capabilities.
+These are the various sources that cause a risk event to occur. 
 
-## Internal  Sources
+## Internal  vs External Sources
 
-Internal sources are actors that are within the trust and control boundary of the organisation.
+Internal sources are within the trust and control boundary of the organisation whereas External sources  exist outside the trust and control boundary of the organisation.
 
-* Disgruntled
-* Accidental
-* Ineffective
-* Criminal
-* Coerced
+## Malicious vs Non-Malicious
 
-## External Sources
+Malicious sources are those with intent to cause harm whereas Non-Malicious sources do not have intent to cause harm.
 
-External sources are actors that exist outside the trust and control boundary of the organisation.
+|Source|Internal/External|Malicious/Non-Malicious|
+|------|-----------------|-----------------------|
+|Disgruntled|Internal|Malicious|
+|Accidental|Internal|Non-Malicious|
+|Ineffective|Internal|Non-Malicious|
+|Criminal|Internal|Malicious|
+|Coerced|Internal|Malicious|
+|Criminals|External|Malicious|
+|Hacktivists|External|Malicious|
+|Compromised suppliers|External|Non-Malicious|
+|State-Sponsored|External|Malicious|
+|Competitor|External|Malicious|
+|Press|External|Non-Malicious|
+|Researcher|External|Non-Malicious|
+|Regulator|External|Non-Malicious|
 
-* Criminals
-* Hacktivists
-* Compromised suppliers
-* State-sponsored
-* Competitor
-* Press
-* Researcher
-* Regulator
 
-## Characteristics
+## Source Characteristics
 
 It can be useful to consider characteristics of each source when analysing risks, the following charcteristics can be useful to consider:
 

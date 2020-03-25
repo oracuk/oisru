@@ -12,6 +12,8 @@ This framework should be complementary to the Basel II operational risk event ty
 
 The Open Information Security Risk Universe comprises, at it's core, Sources of Risk Events, Risk Events and Consequences of Risk Events. These are supplemented by Risk Factors that drive the Frequency or Severity of the Risks.
 
+![](osiru.png)
+
 The Open Information Security Risk Universe does not directly address likelihood or controls as these are covered in other relevant analysis and evaluation methods.
 
 ## Definitions
@@ -28,8 +30,6 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 **Control**: *Measure that maintains or modifies risk*. (Source: ISO 31000)
 
-![](osiru.png)
-
 ## Other Relevant Standards
 
 *NIST Special Publication 800-30 R1 Guide for conducting risk assessments* has a comprehensive set of threat sources (Risk Sources) in Appendix D, a *very* comprehensive set of threat events (Risk Events) in Appendix E and a list of effects of threat events (Consequences) in Appendix H.
@@ -38,7 +38,8 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 ## Contributors
 
-The following people have contributed to this document
+The following people have contributed to this document:
+
 * Phil Huggins
 * Paul De Luca
 * Robin Oldham
@@ -47,3 +48,5 @@ The following people have contributed to this document
 ## License
 
  The Open Information Security Risk Universe is licensed under the Creative Commons Zero v1.0 Universal license. Please the project Github repository [https://github.com/oracuk/oisru](https://github.com/oracuk/oisru) for details.
+
+  

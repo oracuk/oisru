@@ -18,7 +18,7 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 ## Definitions
 
-**Risk**: *The effect of uncertainty on objectives. Usuall expressed in terms of risk sources, possible events and their consequences and likelihood.* (Source: ISO 31000)
+**Risk**: *The effect of uncertainty on objectives. Usually expressed in terms of risk sources, possible events and their consequences and likelihood.* (Source: ISO 31000)
 
 **Sources of Risk**: *Element which alone or in combination has the potential to give risk to risk.* (Source: ISO 31000)
 

@@ -26,7 +26,7 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 **Likelihood**: *Chance of something occuring*. (Source: ISO 31000)
 
-**Control**: *Measure that maintains or modifies risk*. (Source ISO 31000)
+**Control**: *Measure that maintains or modifies risk*. (Source: ISO 31000)
 
 ![](osiru.png)
 

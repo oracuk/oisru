@@ -1,4 +1,4 @@
-# How to use
+# How to use 
 
 ## Risks
 
@@ -36,6 +36,8 @@ There is a risk that \<**source**> causes \<**event**> occurs leading to \<**out
 
 An example of a minimal risk statement structured as above is:
 
-“*There is a risk that an employee accidentally emails data to an external recipient leading to an information breach which results in regulatory fines.*”
+“*There is a risk that an employee accidentally emails data to an external recipient leading to an information breach that causes an accidental market sensitive information leak which results in regulatory fines.*”
+
+“*There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **information breach** (\<event>) that causes an **accidental market sensitive information leak** (\<outcome>) which results in **regulatory fines** (\<consequence>).*”
 
 By ensuring that every risk scenario is also formally stated as a risk statement it allows comparison between scenarios as well as identifying what coverage of the OSIRU is currently being considered by the organisation and whether that is appropriate.

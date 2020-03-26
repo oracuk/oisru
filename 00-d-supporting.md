@@ -1,4 +1,4 @@
-# Supporting Approaches
+# How to use
 
 ## Risks
 

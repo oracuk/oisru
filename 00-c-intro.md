@@ -44,6 +44,7 @@ The following people have contributed to this document:
 * Paul De Luca
 * Robin Oldham
 * Jordan M. Schroeder
+* Tony Richards
 
 ## License
 

@@ -28,12 +28,12 @@ Malicious sources are those with intent to cause harm whereas Non-Malicious sour
 |Regulator|External|Non-Malicious|
 
 
-## Source Characteristics
+## Characteristics
 
-It can be useful to consider characteristics of each source when analysing risks, the following charcteristics can be useful to consider:
+It can be useful to consider characteristics of each source when analysing risks, the following charcteristics can be useful to bear in mind:
 
 * **Goals** (Curiosity, Personal Fame, Personal Gain, National Interests, Revenge, etc)
 * **Skills** (No technical skills, End user, Power user, Developer, Researcher)
 * **Knowledge** (External to organisation, Ex-Organisation insider, Organisation partner, Customer, Employee, Other insider)
 * **Opportunity** (Connected to Internet, Physically nearby, Access to connected partner, Access to organisation, Access to specific network / system) 
-* **Deterability** (Unconcerned criminal, Careful criminal, Careless law-abiding, Careful law-abiding)
+* **Deterrability** (Unconcerned criminal, Careful criminal, Careless law-abiding, Careful law-abiding)

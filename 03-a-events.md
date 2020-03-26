@@ -1,8 +1,9 @@
+
 # Risk Events
 
 Risk events are events that can occur and may cause consequences. 
 
-We use Level 1 risk events to provide a convenient grouping of Level 2 events. We reccomend using the framework at the appropriate level of granularity with regards to the risk scenarios being considered. 
+We use a simple hierarchy to provide convenient groupings of events. We recommend using the framework at the appropriate level of granularity with regards to the risk scenarios being considered. 
 
 Indicative impacts on the information security goals of Confidentiality, Integrity and Availability have been added where appropriate.
 
@@ -10,7 +11,7 @@ Indicative impacts on the information security goals of Confidentiality, Integri
 
 External Risk Events are events that may occur outside your scope of control but may still cause consequences for your organisation or it's stakeholders.
 
-|Level 1 Events|Level 2 Events|CIA|
+|Level 1|Level2|CIA|
 |-------|------|---|
 |Supplier|Service Unavailability|Availability|
 ||Service Compromise|Confidentiality, Integrity|
@@ -27,7 +28,7 @@ Internal Risk Events are events that may occur within your scope of control and 
 The Internal Risk Events are largely derived from this [ENISA](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy/at_download/fullReport) [PDF] review of CSIRT incident taxonomies across Europe.
 
 
-|Level 1 Events|Level 2 Events|CIA|
+|Level 1|Level 2|CIA|
 |-------|-------|---|
 |Abusive Content|Harmful Speech||
 ||Child / Sexual / Violent Content|
@@ -37,7 +38,7 @@ The Internal Risk Events are largely derived from this [ENISA](https://www.enisa
 ||Spyware|Confidentiality|
 ||Rootkit|Confidentiality, Integrity, Availability|
 ||Dialler||
-|Availability Interuption|Distributed / Denial of Service|Availability|
+|Availability Interruption|Distributed / Denial of Service|Availability|
 ||Sabotage|Integrity, Availability|
 |Information Gathering|Open Source Intelligence Analysis|Confidentiality|
 ||Network Scanning||
@@ -64,4 +65,6 @@ Social Engineering|Lies|Confidentiality, Integrity|
 ||Password brute force|Confidentiality, Integrity|
 |Governance Failure|Process failure|Confidentiality, Integrity|
 ||Audit Failure|Confidentiality, Integrity|
+
+
 

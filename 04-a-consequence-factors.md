@@ -1,7 +1,7 @@
 
 # Severity Risk Factors
 
-Severity risk factors are relevant to the estimation of therange and severity of consequences that a risk event may cause to occur to occur.
+Severity risk factors are relevant to the estimation of therange and severity of consequences that a risk event may cause to occur.
 
 ## External Severity Risk Factors
 
@@ -36,7 +36,7 @@ Internal Severity Risk Factors are risk factors that are within your scope of co
 * How much money do we hold in our accounts?
 * How much money can we access in our customers accounts?
 * How many privileged user accounts do we operate?
-* How much cyber insurance ocver do we have?
+* How much cyber insurance cover do we have?
 * How long does our BC/DR process take to resume and restore normal operations following a crisis?
 * Do we encrypt our data?
 * How long does it take us to onboard or switch suppliers?

@@ -4,7 +4,7 @@ A Risk Universe provides a comprehensive view of the possible risks we face. Thi
 
 ![](riskmanage.png)
 
-The goal of the Open Information Security Risk Universe (OISRU) is to provide a model and method independent framework for expressing and categorising security risk.
+The goal of the Open Information Security Risk Universe (OISRU) is to provide a model and method independent framework and taxonomy for expressing and categorising security risk.
 
 This framework should be complementary to the Basel II operational risk event types, recognising that information security risk permeates operational risk.
 

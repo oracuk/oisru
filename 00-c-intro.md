@@ -36,6 +36,8 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 *Octave Allegro* has an indicative set of threat trees in Step 5 (Risk Sources) and in Appendix B includes the Impact Areas (Consequences) and in Appendix C includes Threat Scenarios (Risk Events).
 
+Both of these standards are very useful and highly recommended sources but they do tie their taxonomy into specific qualitative methods for risk analysis. The goal of OSIRU is to be independent of any particular analysis model, whether quantitative or qualitative.
+
 ## Contributors
 
 The following people have contributed to this document:

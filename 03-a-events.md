@@ -3,9 +3,12 @@
 
 Risk events are events that can occur and may cause consequences. 
 
+Risk events may lead to other risk events. For example a *software exploit* may lead to *unauthorised access to a system*.
+
 We use a simple hierarchy to provide convenient groupings of events. We recommend using the framework at the appropriate level of granularity with regards to the risk scenarios being considered. 
 
 Indicative impacts on the information security goals of Confidentiality, Integrity and Availability have been added where appropriate.
+
 
 ## External Risk Events
 

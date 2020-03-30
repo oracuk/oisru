@@ -63,3 +63,15 @@ The diagram below shows some example controls but the OSIRU is independent of co
 ![](control-bowtie.jpg)
 
 A bow-tie can be extended with concepts of frequency/likelihood, control/mitigation effectiveness and quantified consequences but these are beyond the scope of the OSIRU.
+
+## Coverage
+
+A key use of the OISRU is to check the coverage of existing identified risks to identify any gaps. It does not take long to translate an existing risk register into the OISRU taxonomy of\
+ \<source> -> \<event> -> \<consequence> \
+ This then allows the contents of a risk register to be easily compared to the OISRU to see gaps.
+
+ Below is an example of translating the top ten security risks for a firm into the universe. Red components were referenced in an existing risk, grey components were not referenced in an existing risk.
+
+![](coverage.jpg)
+
+This allowed the CISO to confirm if he was comfortable with his choice of his top ten risks. In this example the CISO walked through the gaps and identified the lack of hacktivists as a source of risk and the lack of malware, especially ransomware, as a risk event both worthy of generating new risk scenarios, new risk statements and performing the analysis of their expected outcomes.

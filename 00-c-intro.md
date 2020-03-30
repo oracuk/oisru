@@ -34,7 +34,7 @@ The Open Information Security Risk Universe does not directly address likelihood
 
 * NIST Special Publication 800-30 R1 Guide for conducting risk assessments* has a comprehensive set of threat sources (Risk Sources) in Appendix D, a *very* comprehensive set of threat events (Risk Events) in Appendix E and a list of effects of threat events (Consequences) in Appendix H.
 
-* Octave Allegro* has an indicative set of threat trees in Step 5 (Risk Sources) and in Appendix B includes the Impact Areas (Consequences) and in Appendix C includes Threat Scenarios (Risk Events).
+* Octave Allegro has an indicative set of threat trees in Step 5 (Risk Sources) and in Appendix B includes the Impact Areas (Consequences) and in Appendix C includes Threat Scenarios (Risk Events).
 
 Both of these standards are very useful and highly recommended sources but they do tie their taxonomy into specific qualitative methods for risk analysis. The goal of OSIRU is to be independent of any particular analysis model, whether quantitative or qualitative.
 

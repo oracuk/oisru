@@ -1,10 +1,10 @@
-# How to use 
+# How to use
 
 ## Risks
 
 It’s key to understand that a risk event alone is not a risk, at it's simplest a risk can be a single risk event and the single consequence of that event.
 
-However, it is likely as we develop our risk scenario that they will consist of the combination or one or more sources, one or more risk events and one or more consequences. 
+However, it is likely as we develop our risk scenario that they will consist of the combination or one or more sources, one or more risk events and one or more consequences.
 
 Risk events may lead to other risk events within the scenario. For example a *software exploit* may lead to *unauthorised access to a system* that then causes consequences.
 
@@ -36,15 +36,15 @@ There is a risk that \<**source**> causes \<**event**> occurs leading to \<**out
 
 An example of a minimal risk statement structured as above is:
 
-“*There is a risk that an employee accidentally emails data to an external recipient leading to an information breach that causes an accidental market sensitive information leak which results in regulatory fines.*”
+“*There is a risk that an employee accidentally emails data to an external recipient leading to an accidental market sensitive information leak which causes regulatory fines.*”
 
-“*There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **information breach** (\<event>) that causes an **accidental market sensitive information leak** (\<outcome>) which results in **regulatory fines** (\<consequence>).*”
+“*There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **accidental market sensitive information leak** (\<outcome>) which causes **regulatory fines** (\<consequence>).*”
 
 By ensuring that every risk scenario is also formally stated as a risk statement it allows comparison between scenarios as well as identifying what coverage of the OSIRU is currently being considered by the organisation and whether that is appropriate.
 
 ## Bow-Tie Diagrams
 
-Bow-Tie diagrams can be a very useful way to visualise the components of a risk. A bow-tie diagram uses the risk as the 'knot' of the tie with two trees either side, the left hand tree is a fault tree showing the causal relationships that cause the risk and the right hand tree is an event tree showing the consequences of the risk. 
+Bow-Tie diagrams can be a very useful way to visualise the components of a risk. A bow-tie diagram uses the risk as the 'knot' of the tie with two trees either side, the left hand tree is a fault tree showing the causal relationships that cause the risk and the right hand tree is an event tree showing the consequences of the risk.
 
 A simple risk such as the example given above can be represented as follows:
 
@@ -56,7 +56,7 @@ This is much simpler than most bow-tie diagrams, a more complicated example incl
 
 ![](complicated-bowtie.jpg)
 
-The real value of a bow-tie diagram is in evaluating the available controls and mitigations. In this contect a control is a limiting factor that influences the fault tree on the left hand side whereas a mitigation is a limiting factor that influences the event tree on the right hand side.
+The real value of a bow-tie diagram is in evaluating the available controls and mitigations. In this context a control is a limiting factor that influences the fault tree on the left hand side whereas a mitigation is a limiting factor that influences the event tree on the right hand side.
 
 The diagram below shows some example controls but the OSIRU is independent of control frameworks and as such to draw a bow-tie diagram such as this you would need to use both the OSIRU and your choice of control framework.
 

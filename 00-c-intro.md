@@ -49,6 +49,7 @@ The following people have contributed to this document:
 * Robin Oldham
 * Jordan M. Schroeder
 * Tony Richards
+* Alex Lucas
 
 ## License
 

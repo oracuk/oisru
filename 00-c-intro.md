@@ -12,7 +12,7 @@ This framework should be complementary to the Basel II operational risk event ty
 
 The Open Information Security Risk Universe comprises, at it's core, Sources of Risk Events, Risk Events and Consequences of Risk Events. These are supplemented by Risk Factors that drive the Frequency or Severity of the Risks.
 
-![](osiru.png)
+![](universe-scope.jpg)
 
 The Open Information Security Risk Universe does not directly address likelihood or controls as these are covered in other relevant analysis and evaluation methods.
 

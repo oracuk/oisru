@@ -50,17 +50,17 @@ A simple risk such as the example given above can be represented as follows:
 
 \<source> -> \<event> -> \<outcome> -> \<consequence>
 
-![](basic-bowtie.jpg)
+![A Very Basic Bow-Tie](basic-bowtie.jpg)
 
 This is much simpler than most bow-tie diagrams, a more complicated example includes the following that shows many events and consequences:
 
-![](complicated-bowtie.jpg)
+![A more complicated Bow-Tie](complicated-bowtie.jpg)
 
 The real value of a bow-tie diagram is in evaluating the available controls and mitigations. In this context a control is a limiting factor that influences the fault tree on the left hand side whereas a mitigation is a limiting factor that influences the event tree on the right hand side.
 
 The diagram below shows some example controls but the OSIRU is independent of control frameworks and as such to draw a bow-tie diagram such as this you would need to use both the OSIRU and your choice of control framework.
 
-![](control-bowtie.jpg)
+![Bow-Tie Including Controls](control-bowtie.jpg)
 
 A bow-tie can be extended with concepts of frequency/likelihood, control/mitigation effectiveness and quantified consequences but these are beyond the scope of the OSIRU.
 
@@ -72,7 +72,7 @@ A key use of the OISRU is to check the coverage of existing identified risks to 
 
  Below is an example of translating the top ten security risks for a firm into the universe. Red components were referenced in an existing risk, grey components were not referenced in an existing risk.
 
-![](coverage.jpg)
+![Coverage Example](osiru-coverage.png)
 
 This allowed the CISO to confirm if he was comfortable with his choice of his top ten risks. In this example the CISO walked through the gaps and identified the lack of hacktivists as a source of risk and the lack of malware, especially ransomware, as a risk event both worthy of generating new risk scenarios, new risk statements and performing the analysis of their expected outcomes.
 

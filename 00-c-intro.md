@@ -2,7 +2,7 @@
 
 A Risk Universe provides a comprehensive view of the possible risks we face. This view is designed to aid in categorisation but also to act as a check on the scope of our risk identification exercises to ensure we don’t miss risks that then take us by surprise when they occur.
 
-![](riskmanage.png)
+![Risk Management](./riskmanagement.png)
 
 The goal of the Open Information Security Risk Universe (OISRU) is to provide a model and method independent framework and taxonomy for expressing and categorising security risk.
 
@@ -12,7 +12,7 @@ This framework should be complementary to the Basel II operational risk event ty
 
 The Open Information Security Risk Universe comprises, at it's core, Sources of Risk Events, Risk Events and Consequences of Risk Events. These are supplemented by Risk Factors that drive the Frequency or Severity of the Risks.
 
-![](osiru.png)
+![OISRU Scope](./universe-scope.png)
 
 The Open Information Security Risk Universe does not directly address likelihood or controls as these are covered in other relevant analysis and evaluation methods.
 
@@ -49,6 +49,7 @@ The following people have contributed to this document:
 * Robin Oldham
 * Jordan M. Schroeder
 * Tony Richards
+* Alex Lucas
 
 ## License
 

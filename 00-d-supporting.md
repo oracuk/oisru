@@ -23,7 +23,7 @@ When writing relevant risk scenarios the analyst should consider:
 * **Triggers** - *'Why'*, - Motivations, Goals
 * **Event** - *'What, How'* - Activities, Objectives, Targets
 * **Timelines** - *'When, How long'* - Triggering Events, Opportunity
-* **Location** - *'Where*' - Geography, Networks
+* **Location** - *'Where'* - Geography, Networks
 * **Responses** - *'So what'* - Harms, Likely following events
 
 While the description of the risk scenario under consideration can be tailored to use language appropriate to the organisation in scope and the stakeholders or experts that must consider it the underlying statement of the risk that scenario represents can, and should, be standardised using the Open Information Security Risk Universe.
@@ -36,9 +36,9 @@ There is a risk that \<**source**> causes \<**event**> occurs leading to \<**out
 
 An example of a minimal risk statement structured as above is:
 
-“*There is a risk that an employee accidentally emails data to an external recipient leading to an accidental market sensitive information leak which causes regulatory fines.*”
+“_There is a risk that an employee accidentally emails data to an external recipient leading to an accidental market sensitive information leak which causes regulatory fines._”
 
-“*There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **accidental market sensitive information leak** (\<outcome>) which causes **regulatory fines** (\<consequence>).*”
+“_There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **accidental market sensitive information leak** (\<outcome>) which causes **regulatory fines** (\<consequence>)._”
 
 By ensuring that every risk scenario is also formally stated as a risk statement it allows comparison between scenarios as well as identifying what coverage of the OSIRU is currently being considered by the organisation and whether that is appropriate.
 
@@ -74,6 +74,6 @@ A key use of the OISRU is to check the coverage of existing identified risks to 
 
 ![](coverage.jpg)
 
-This allowed the CISO to confirm if he was comfortable with his choice of his top ten risks. In this example the CISO walked through the gaps and identified the lack of hacktivists as a source of risk and the lack of malware, especially ransomware, as a risk event both worthy of generating new risk scenarios, new risk statements and performing the analysis of their expected outcomes.
+This allowed the CISO to confirm if they were comfortable with their choice of top ten risks. In this example the CISO walked through the gaps and identified the lack of hacktivists as a source of risk and the lack of malware, especially ransomware, as a risk event both worthy of generating new risk scenarios, new risk statements and performing the analysis of their expected outcomes.
 
 This sort of comparison is also useful for IT Auditors when they provide oversight of security risk processes and security risk registers as it provides a basis for challenge and communication with the security management team.

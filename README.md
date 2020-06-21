@@ -26,7 +26,7 @@ We are very happy to see OISRU in use and where we can we will link to or upload
 
 - [ISO Based Controls Playbook by Rob Dodson](https://github.com/oracuk/oisru/blob/master/examples/ISO%20Based%20Controls%20Playbook.pdf)
 
-## Presenatations
+## Presentations
 
 We have presented on the OISRU and it's uses and will link to these here, as well as other sessions we are made aware of.
 

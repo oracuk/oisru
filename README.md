@@ -20,6 +20,12 @@ A PDF of the current version of the oisru is available in the repository [here](
 - [Severity Risk Factors](04-a-consequence-factors.md)
 - [Risk Consequences](05-a-consequences.md)
 
+## Examples
+
+We are very happy to see OISRU in use and where we can we will link to or upload examples we are made aware of.
+
+- [ISO Based Controls Playbook by Rob Dodson](https://github.com/oracuk/oisru/blob/master/examples/ISO%20Based%20Controls%20Playbook.pdf)
+
 ## Contributing to the OISRU
 The OISRU is an open source effort and we welcome contributions and feedback.
 To report an error or suggest an improvement, please create an [issue](https://github.com/oracuk/oisru/issues "Github issues") or create a Pull Request.

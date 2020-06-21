@@ -26,6 +26,13 @@ We are very happy to see OISRU in use and where we can we will link to or upload
 
 - [ISO Based Controls Playbook by Rob Dodson](https://github.com/oracuk/oisru/blob/master/examples/ISO%20Based%20Controls%20Playbook.pdf)
 
+## Presenatations
+
+We have presented on the OISRU and it's uses and will link to these here, as well as other sessions we are made aware of.
+
+ - [Open Security Summit 2020 - OISRU by Robin Oldham, Phil Huggins & Petra Vukmirovic](https://github.com/oracuk/oisru/blob/master/oss2020/OSS2020_-_Open_Information_Security_Risk_Universe_(OISRU).pdf)
+ - [Open Security Summit 2020 - Break Out Sessions by Robin Oldham, Phil Huggins & Petra Vukmirovic](https://github.com/oracuk/oisru/blob/master/oss2020/OSS2020_-_OISRU_Activity_Slides.pdf)
+
 ## Contributing to the OISRU
 The OISRU is an open source effort and we welcome contributions and feedback.
 To report an error or suggest an improvement, please create an [issue](https://github.com/oracuk/oisru/issues "Github issues") or create a Pull Request.

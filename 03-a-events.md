@@ -51,7 +51,7 @@ The Internal Risk Events are largely derived from this [ENISA](https://www.enisa
 ||Threats|Confidentiality, Integrity|
 ||Phishing|Confidentiality, Integrity|
 ||Bribes|Confidentiality, Integrity|
-|Information Breach|Unathorised access to system / component|Confidentiality, Integrity|
+|Information Breach (inc. misconfiguration)|Unathorised access to system / component|Confidentiality, Integrity|
 ||Unauthorised access to information|Confidentiality|
 ||Unauthorised sharing of information|Confidentiality|
 ||Unauthorised modification of information|Integrity|

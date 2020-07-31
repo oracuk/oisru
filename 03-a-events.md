@@ -43,7 +43,7 @@ The Internal Risk Events are largely derived from this [ENISA](https://www.enisa
 ||Dialler||
 |Availability Interruption|Distributed / Denial of Service|Availability|
 ||Sabotage|Integrity, Availability|
-||System Outage|Availability|
+||Outage (no malice)|Availability|
 |Information Gathering|Open Source Intelligence Analysis|Confidentiality|
 ||Network Scanning||
 ||Network Sniffing|Confidentiality|

@@ -1,11 +1,11 @@
 
 # Risk Events
 
-Risk events are events that can occur and may cause consequences. 
+Risk events are events that can occur and may cause consequences.
 
 Risk events may lead to other risk events. For example a *software exploit* may lead to *unauthorised access to a system*.
 
-We use a simple hierarchy to provide convenient groupings of events. We recommend using the framework at the appropriate level of granularity with regards to the risk scenarios being considered. 
+We use a simple hierarchy to provide convenient groupings of events. We recommend using the framework at the appropriate level of granularity with regards to the risk scenarios being considered.
 
 Indicative impacts on the information security goals of Confidentiality, Integrity and Availability have been added where appropriate.
 
@@ -46,8 +46,7 @@ The Internal Risk Events are largely derived from this [ENISA](https://www.enisa
 |Information Gathering|Open Source Intelligence Analysis|Confidentiality|
 ||Network Scanning||
 ||Network Sniffing|Confidentiality|
-||
-Social Engineering|Lies|Confidentiality, Integrity|
+|Social Engineering|Lies|Confidentiality, Integrity|
 ||Threats|Confidentiality, Integrity|
 ||Phishing|Confidentiality, Integrity|
 ||Bribes|Confidentiality, Integrity|
@@ -68,6 +67,3 @@ Social Engineering|Lies|Confidentiality, Integrity|
 ||Password brute force|Confidentiality, Integrity|
 |Governance Failure|Process failure|Confidentiality, Integrity|
 ||Audit Failure|Confidentiality, Integrity|
-
-
-

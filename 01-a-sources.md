@@ -1,7 +1,7 @@
 
 # Sources of Risk
 
-These are the various sources that cause a risk event to occur. 
+These are the various sources that cause a risk event to occur.
 
 ## Internal  vs External Sources
 
@@ -20,7 +20,7 @@ Malicious sources are those with intent to cause harm whereas Non-Malicious sour
 |Coerced|Internal|Malicious|
 |Criminals|External|Malicious|
 |Hacktivists|External|Malicious|
-|Compromised suppliers|External|Non-Malicious|
+|Suppliers|External|Non-Malicious|
 |State-Sponsored|External|Malicious|
 |Competitor|External|Malicious|
 |Press|External|Non-Malicious|
@@ -35,5 +35,5 @@ It can be useful to consider characteristics of each source when analysing risks
 * **Goals** (Curiosity, Personal Fame, Personal Gain, National Interests, Revenge, etc)
 * **Skills** (No technical skills, End user, Power user, Developer, Researcher)
 * **Knowledge** (External to organisation, Ex-Organisation insider, Organisation partner, Customer, Employee, Other insider)
-* **Opportunity** (Connected to Internet, Physically nearby, Access to connected partner, Access to organisation, Access to specific network / system) 
+* **Opportunity** (Connected to Internet, Physically nearby, Access to connected partner, Access to organisation, Access to specific network / system)
 * **Deterrability** (Unconcerned criminal, Careful criminal, Careless law-abiding, Careful law-abiding)

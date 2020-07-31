@@ -1,6 +1,6 @@
 # Open Information Security Risk Universe
 
-<img src="cover.jpg" width=400 align="middle">
+<img src="https://github.com/oracuk/oisru/blob/master/cover.jpg?raw=true" align="middle" width="400" >
 
 The Open Information Security Risk Universe (oisru) is a framework and taxonomy for describing information security risks independently of models or methods of analysing risks.
 
@@ -19,6 +19,19 @@ A PDF of the current version of the oisru is available in the repository [here](
 - [Risk Events](03-a-events.md)
 - [Severity Risk Factors](04-a-consequence-factors.md)
 - [Risk Consequences](05-a-consequences.md)
+
+## Examples
+
+We are very happy to see OISRU in use and where we can we will link to or upload examples we are made aware of.
+
+- [ISO Based Controls Playbook by Rob Dodson](https://github.com/oracuk/oisru/blob/master/examples/ISO%20Based%20Controls%20Playbook.pdf)
+
+## Presentations
+
+We have presented on the OISRU and it's uses and will link to these here, as well as other sessions we are made aware of.
+
+ - [Open Security Summit 2020 - OISRU by Robin Oldham, Phil Huggins & Petra Vukmirovic](https://github.com/oracuk/oisru/blob/master/oss2020/OSS2020_-_Open_Information_Security_Risk_Universe_(OISRU).pdf)
+ - [Open Security Summit 2020 - Break Out Sessions by Robin Oldham, Phil Huggins & Petra Vukmirovic](https://github.com/oracuk/oisru/blob/master/oss2020/OSS2020_-_OISRU_Activity_Slides.pdf)
 
 ## Contributing to the OISRU
 The OISRU is an open source effort and we welcome contributions and feedback.

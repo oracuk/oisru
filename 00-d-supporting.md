@@ -40,7 +40,7 @@ An example of a minimal risk statement structured as above is:
 
 “_There is a risk that an **employee accidentally** (\<source>)  **emails data to an external recipient** (\<event>) leading to an **accidental market sensitive information leak** (\<outcome>) which causes **regulatory fines** (\<consequence>)._”
 
-By ensuring that every risk scenario is also formally stated as a risk statement it allows comparison between scenarios as well as identifying what coverage of the OSIRU is currently being considered by the organisation and whether that is appropriate.
+By ensuring that every risk scenario is also formally stated as a risk statement it allows comparison between scenarios as well as identifying what coverage of the OISRU is currently being considered by the organisation and whether that is appropriate.
 
 ## Bow-Tie Diagrams
 
@@ -58,11 +58,11 @@ This is much simpler than most bow-tie diagrams, a more complicated example incl
 
 The real value of a bow-tie diagram is in evaluating the available controls and mitigations. In this context a control is a limiting factor that influences the fault tree on the left hand side whereas a mitigation is a limiting factor that influences the event tree on the right hand side.
 
-The diagram below shows some example controls but the OSIRU is independent of control frameworks and as such to draw a bow-tie diagram such as this you would need to use both the OSIRU and your choice of control framework.
+The diagram below shows some example controls but the OISRU is independent of control frameworks and as such to draw a bow-tie diagram such as this you would need to use both the OISRU and your choice of control framework.
 
 ![Bow-Tie Including Controls](control-bowtie.jpg)
 
-A bow-tie can be extended with concepts of frequency/likelihood, control/mitigation effectiveness and quantified consequences but these are beyond the scope of the OSIRU.
+A bow-tie can be extended with concepts of frequency/likelihood, control/mitigation effectiveness and quantified consequences but these are beyond the scope of the OISRU.
 
 ## Risk Coverage
 

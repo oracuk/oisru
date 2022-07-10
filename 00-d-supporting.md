@@ -77,3 +77,15 @@ A key use of the OISRU is to check the coverage of existing identified risks to 
 This allowed the CISO to confirm if they were comfortable with their choice of top ten risks. In this example the CISO walked through the gaps and identified the lack of hacktivists as a source of risk and the lack of malware, especially ransomware, as a risk event both worthy of generating new risk scenarios, new risk statements and performing the analysis of their expected outcomes.
 
 This sort of comparison is also useful for IT Auditors when they provide oversight of security risk processes and security risk registers as it provides a basis for challenge and communication with the security management team.
+
+## Risk Appetite
+
+Another use of OISRU is to help set or further understand the consequences of the level selected for the risk appetite of the organisation. Many good definitions of risk appetite are available, herein we refer to _risk appetite as the amount of risk an organisation is prepared to accept, tolerate, or be exposed to over a defined period in time_. Similar to coverage, with OISRU an organisation can stimulate a discussion on risk appetite on the basis of summarising changes in the OISRU taxonomy. 
+
+Imagine an organisation that revisits its risk appetite at a board level at the beginning of each year and then monitors it, quarterly. As events unfold throughout the year, the risk landscape changes. Certain risks become more dominant, while others have now little consequence, given the application of specific controls. 
+
+![Using OISRU for Risk Appetite Revisits](risk-appetite-oisru.png)
+
+This change in the risk landscape can be used as input to stimulate the right discussion at a board level with regards to hard question "should we change our risk appetite based on current events?" More than often, risk appetite requires only small adjustments, post contructive dialogue. With OISRU your CISO can engage the board in a meaningful dialogue with regards to information security and cyber risks and bring them on the journey to help answer this question for a given moment in time. 
+
+In using OISRU to stimulate risk appetite discussion at the board level, the CISO should not attempt to focus on all the sources, events and consequences with their respective changes experienced, say in the last quarter. Instead, they should try to extrapolate which of these events are important in the context of the wider risk discussion of the organisation. With this approach, OISRU serves as a stimulus to risk appetite. 
